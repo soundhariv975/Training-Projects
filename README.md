@@ -1,0 +1,2 @@
+# Training-Projects
+MySQL Project
